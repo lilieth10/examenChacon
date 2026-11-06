@@ -4,4 +4,4 @@ Lenguaje favorito: Python
 
 Serie favorita: juego de tronos
 
-Videojuego favorito: Mario
+Videojuego favorito: Mario (versión original)
