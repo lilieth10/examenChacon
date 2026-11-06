@@ -1,3 +1,5 @@
 lilieth chacon
 
 Lenguaje favorito: Python
+
+Serie favorita: juego de tronos
