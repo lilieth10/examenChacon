@@ -1,2 +1,5 @@
 1. mkdir -p src docs data
 2. printf '<h1>Hola</h1>\n' > src/index.html
+3. cd docs
+3. cp ../src/index.html ../data/copia.txt
+3. cd ..
